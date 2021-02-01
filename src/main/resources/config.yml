@@ -21,7 +21,7 @@ warn-message-down: "&cKlikasz za szybko! Max CPS: <CPSLimit>"
 max-cps-kick: 25
 
 #Kick reason
-kick-reason: "&2&lANTY&8&l-&f&lMACRO&r<NewLine>&7Zostales wyrzucony za zbyt szybkie klikanie!<NewLine>&7Maksymane cps: <CPSLimit>"
+kick-reason: "&2&lANTY&8&l-&f&lMACRO&r<NewLine>&7Zostales wyrzucony za zbyt szybkie klikanie!<NewLine>&7Maksymalne CPS: <CPSLimit>"
 
 #Github: https://github.com/BestInTest/AntyMacro
 #Original source: https://github.com/vexiowski/AntyMacro
