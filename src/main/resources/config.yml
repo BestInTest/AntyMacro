@@ -1,0 +1,27 @@
+#Better performance but unstable
+#You use at your own risk!
+async: false
+
+############################
+
+#Max clicks per second
+max_cps: 15
+
+############################
+
+#Message displayed when player's CPS is
+#greater than max_cps
+warn-message-up: "&2&lANTY&8&l-&f&lMACRO"
+warn-message-down: "&cKlikasz za szybko! Max CPS: <CPSLimit>"
+
+############################
+
+#Player will be kicked when his CPS is
+#greater than value below
+max-cps-kick: 25
+
+#Kick reason
+kick-reason: "&2&lANTY&8&l-&f&lMACRO&r<NewLine>&7Zostales wyrzucony za zbyt szybkie klikanie!<NewLine>&7Maksymane cps: <CPSLimit>"
+
+#Github: https://github.com//AntyMacro
+#Original source: https://github.com/vexiowski/AntyMacro
